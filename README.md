@@ -1,18 +1,7 @@
-# flutter_application_1
+# แอพแปลงสกุลเงิน
 
-A new Flutter project.
+## ตัวอย่างผลการทำงาน
+https://github.com/TOEYJIRAKID/Currency-Converter-App/assets/167008371/54c31e5f-c0c4-4a71-89ca-f91460c8f1ae
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter-CurrencyConverter" 
-"# Currency-Converter-App" 
