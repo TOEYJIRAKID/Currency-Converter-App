@@ -23,7 +23,7 @@ Currency Converter is a mobile application developed using Flutter and Dart that
 ## 🛠 **Tech Stack** :
 
 - **Frontend:** Dart, Flutter
-- **Other:** API
+- **Other:** ExchangeRate-API
 
 ## 📂 **GitHub Repository (Source Code)** :
 
