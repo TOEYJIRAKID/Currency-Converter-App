@@ -29,6 +29,14 @@ Currency Converter is a mobile application developed using Flutter and Dart that
 
 - [https://github.com/TOEYJIRAKID/Currency-Converter-App](https://github.com/TOEYJIRAKID/Currency-Converter-App)
 
+## ⚙️ **Installation & Setup** :
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/TOEYJIRAKID/Currency-Converter-App.git
+   ```  
+2. **Run the code and open http://localhost:{port} to view the project.**
+
 ## 📽️ **Project Preview** :
 
 ![currency-convert-app](https://github.com/user-attachments/assets/74a06200-c1a0-4350-9d42-9793d499d635)
